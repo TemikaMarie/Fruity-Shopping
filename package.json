@@ -1,0 +1,21 @@
+{
+  "name": "shopping-cart-project",
+  "version": "1.0.0",
+  "description": "JavaScript project to show and manage a shopping cart",
+  "main": "script.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "live-server --port=3000 src"
+  },
+  "keywords": ["JavaScript"],
+  "author": "Temika Marie",
+  "dependencies": {
+    "jest": "^29.7.0",
+    "live-server": "^1.2.1"
+  }
+}
+
+
